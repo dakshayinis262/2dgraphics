@@ -1,0 +1,49 @@
+Prompt 1
+
+Prompt: Draw a rectangle on the canvas.
+Response: Implemented drawRectangle() to draw rectangle boundaries using *.
+
+Prompt 2
+
+Prompt: Draw a horizontal or vertical line.
+Response: Implemented drawLine() for horizontal and vertical lines.
+
+Prompt 3
+
+Prompt: Draw a triangle.
+Response: Implemented drawTriangle() to draw the sides and base of a triangle.
+
+Prompt 4
+
+Prompt: Draw a circle.
+Response: Implemented drawCircle() using the circle equation to fill the circle with *.
+
+Prompt 5
+
+Prompt: Delete a selected area from the canvas.
+Response: Implemented deleteArea() to replace * with _.
+
+Prompt 6
+
+Prompt: Modify an existing rectangle.
+Response: Implemented modifyRectangle() by deleting the old rectangle and drawing a new one.
+
+Prompt 7
+
+Prompt: Modify an existing circle.
+Response: Implemented modifyCircle() by deleting the old circle and drawing a new one.
+
+Prompt 8
+
+Prompt: Modify an existing line.
+Response: Implemented modifyLine() by deleting the old line and drawing a new one.
+
+Prompt 9
+
+Prompt: Modify an existing triangle.
+Response: Implemented modifyTriangle() by deleting the old triangle and drawing a new one.
+
+Prompt 10
+
+Prompt: Display the current canvas and provide menu options.
+Response: Implemented displayCanvas() and a menu-driven interface for user interaction.
